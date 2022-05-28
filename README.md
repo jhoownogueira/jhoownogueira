@@ -4,7 +4,7 @@
 I got to know programming and realized how much I liked to spend hours on the computer studying about it.
 I'm currently studying Front-end development, HTML, CSS, SASS, GULP, Javascript, React and Vue. I want to gain experience, create my portfolio and seek an opportunity in the job market.</h5>
 
-<h4>Tecnologia e Ferramentas</h4>
+<h4>Tecnologia e Ferramentas que estou estudando</h4>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
