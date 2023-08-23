@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Jhonata - aka Jhoow!
 
 <p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="[https://nestjs.com/img/logo-small.svg](https://korsktbojslnwkpnujrx.supabase.co/storage/v1/object/public/github_jhonata/logo-jhoow.svg?t=2023-08-23T01%3A21%3A22.404Z)" width="200" alt="Jhoow Logo" /></a>
+  <img src="https://korsktbojslnwkpnujrx.supabase.co/storage/v1/object/public/github_jhonata/logo-jhoow.svg?t=2023-08-23T01%3A21%3A22.404Z" width="200" alt="Jhoow Logo" />
 </p>
 
 I'm a **Front-End Developer** specializing in **Next.js**, **JavaScript**, and **UI Design**. Occasionally, I delve into the back-end using **NestJs**.
