@@ -11,6 +11,10 @@ I'm a **Front-End Developer** specializing in **Next.js**, **JavaScript**, and *
   <img src="https://media2.giphy.com/media/SUEN0j6R09jeEriEWr/giphy.gif?cid=ecf05e47f4f5jrf5a45vtjw830ten75mii34yk8rc7h099mv&rid=giphy.gif" width="25">
 </p>
 
+---
+
+#### 💼 Tech and Tols Stack
+
 <p align="center">
   <img src="https://korsktbojslnwkpnujrx.supabase.co/storage/v1/object/public/github_jhonata/tech-tools/typescript.svg?t=2023-08-23T19%3A20%3A53.736Z" alt="Typescript" />
   <img src="https://korsktbojslnwkpnujrx.supabase.co/storage/v1/object/public/github_jhonata/tech-tools/javascript.svg?t=2023-08-23T19%3A21%3A05.262Z" alt="Javascript" />
@@ -35,15 +39,11 @@ I'm a **Front-End Developer** specializing in **Next.js**, **JavaScript**, and *
 
 </p>
 
-🚀 [Check out my personal page!](https://jhonatanogueira.com)
+---
 
-#### 💼 Tech Stack
-<div>
-  <img src="https://styled-components.com/logo.png" width="30" height="30" alt="Styled Components"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" height="30" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30" alt="React"/>
-</div>
+🌐 [Check out my personal page!](https://jhonatanogueira.com)
+
+---
 
 #### 🌍 Connect with me
 <a href="https://www.linkedin.com/in/jhoownogueira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -52,6 +52,6 @@ I'm a **Front-End Developer** specializing in **Next.js**, **JavaScript**, and *
 
 <div align="center">
 <a href="https://github.com/jhoownogueira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhoownogueira&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhoownogueira&layout=compact&langs_count=5&theme=dark&show_icons=true&card_width=400&custom_title=Top+5+languages"/>
 </a>
 </div>
