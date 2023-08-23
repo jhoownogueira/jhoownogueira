@@ -52,6 +52,6 @@ I'm a **Front-End Developer** specializing in **Next.js**, **JavaScript**, and *
 
 <div align="center">
 <a href="https://github.com/jhoownogueira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhoownogueira&layout=normal&langs_count=5&theme=dark&show_icons=true&card_width=400&custom_title=Top+5+languages"/>
+  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhoownogueira&layout=normal&langs_count=5&theme=dark&show_icons=true&card_width=400&custom_title=Top+5+languages"/>
 </a>
 </div>
