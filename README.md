@@ -63,7 +63,7 @@ I value simple solutions, solid foundations, reusable components, and automation
 
 **Have an idea or want to connect?**
 
-[Portfolio](https://jhonatanogueira.com) · [LinkedIn](https://www.linkedin.com/in/jhoownogueira) · [Codezado](https://codezado.com)
+[Portfolio](https://jhonatanogueira.com) · [LinkedIn](https://www.linkedin.com/in/jhoownogueira)
 
 <sub>Built with curiosity, coffee, and a lot of commits.</sub>
 
