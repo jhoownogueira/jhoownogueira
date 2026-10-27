@@ -6,7 +6,7 @@
 
 *From interfaces to infrastructure — I enjoy turning ideas into real, working products.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://jhonatanogueira.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://jhonata.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhoownogueira)
 [![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jhoownogueira)
 
@@ -63,7 +63,7 @@ I value simple solutions, solid foundations, reusable components, and automation
 
 **Have an idea or want to connect?**
 
-[Portfolio](https://jhonatanogueira.com) · [LinkedIn](https://www.linkedin.com/in/jhoownogueira)
+[Portfolio](https://jhonata.dev) · [LinkedIn](https://www.linkedin.com/in/jhoownogueira)
 
 <sub>Built with curiosity, coffee, and a lot of commits.</sub>
 
